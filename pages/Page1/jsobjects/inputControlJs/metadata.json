@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "inputControlJs",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_inputControlJs",
+  "deleted": false,
+  "gitSyncId": "6553597245c88e7f342eefaf_65535a5373c31b30705737c4"
+}
