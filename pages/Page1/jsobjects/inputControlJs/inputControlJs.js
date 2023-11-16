@@ -6,6 +6,7 @@ export default {
 		//	this.myVar1 = [1,2,3]
 		// let rand = Math.random()
 		// Input1.setValue(''+rand)
+		console.log('hello world')
 		return [1,2,3,3]
 		
 	},
