@@ -49,6 +49,7 @@ import TableWidget from "./TableWidget";
 import TabsMigratorWidget from "./TabsMigrator";
 import TabsWidget from "./TabsWidget";
 import TextWidget from "./TextWidget";
+import TextWidget1 from "./TextWidgetAnp";
 import VideoWidget from "./VideoWidget";
 import ProgressWidget from "./ProgressWidget";
 import TableWidgetV2 from "./TableWidgetV2";
@@ -79,6 +80,7 @@ const Widgets = [
   SkeletonWidget,
   ContainerWidget,
   TextWidget,
+  TextWidget1,
   TableWidget,
   CheckboxWidget,
   RadioGroupWidget,

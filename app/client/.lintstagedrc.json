@@ -7,5 +7,5 @@
   "cypress/**/*.json": ["prettier --write --cache"],
   "packages/**/*.{js,ts,tsx}": ["eslint --fix --cache"],
   "packages/**/*.{css,mdx,json}": ["prettier --write --cache"],
-  "COMMENTED": ["gitleaks protect --staged --verbose --no-banner"]
+  "COM": ["gitleaks protect --staged --verbose --no-banner"]
 }
